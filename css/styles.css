@@ -183,7 +183,7 @@ color: #FFFFFF;
 }
 .navbar-inverse .navbar-nav > .active > a, .navbar-inverse .navbar-nav > .active > a:hover, .navbar-inverse .navbar-nav > .active > a:focus {
 color: #FFFFFF;
-background: none;
+background: rgb(240, 128, 128);
 }	
 .navbar-toggle {
 }
